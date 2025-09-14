@@ -1,4 +1,4 @@
-﻿# Pruebas para el parámetro firstName al crear un/a usuario/a en [URBAN GROSERIES]
+﻿# Pruebas para el parámetro firstName al crear un/a usuario/a en [URBAN GROS]
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
-- Ejecutando en git bash
+- Ejecutando en git bash 
